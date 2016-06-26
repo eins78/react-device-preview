@@ -16,3 +16,7 @@ See all the devices and options in the [demo](#).
 Uses the [beautiful pure-CSS `Devices.css`](http://marvelapp.github.io/devices.css/),
 special thanks to [Oleg](http://twitter.com/olegtsaplin) from [Marvel](https://marvelapp.com/)
 for making it and releasing it under a free license.
+
+[![MIT License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](./LICENSE)
+
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](http://standardjs.com)

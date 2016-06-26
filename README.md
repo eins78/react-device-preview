@@ -9,7 +9,7 @@ Wraps children as if they were shown full-screen on an iPhone or other device.
 </Device>
 ```
 
-<!-- TODO: example image -->
+<img width="867px" alt="screen shot 2016-06-26 at 17 14 29" src="https://cloud.githubusercontent.com/assets/134942/16363129/88fc640e-3bc1-11e6-9f3a-40f28d2cf0f1.png">
 
 See all the devices and options in the [demo](#).
 
